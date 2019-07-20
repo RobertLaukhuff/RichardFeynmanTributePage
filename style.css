@@ -13,6 +13,7 @@ hgroup{
   font-size: 48px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 600;
+  margin: 15px auto;
 }
 
 #title + h2{
@@ -66,4 +67,26 @@ aside{
 
 #img-aside{
   width: 60%;
+}
+
+footer{
+  text-align: center;
+}
+
+#link:link{
+  text-decoration: none;
+  color: #6A50E1;
+}
+#link:visited{
+  text-decoration: none;
+  color: #6A50E1;
+}
+#link:hover{
+  text-decoration: none;
+  color: #777777;
+  font-size: 18px;
+}
+#link:active{
+  text-decoration: none;
+
 }
